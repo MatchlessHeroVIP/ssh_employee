@@ -27,8 +27,6 @@
 			<result name="deleteSuccess" type="redirectAction">department_findAll.action</result>
 			
 		</action>
-	
-		
 		
 	</package>
 </struts>    
